@@ -1,0 +1,1 @@
+newman run Mock2Full.postman_collection.json -e Mock2fullEnv.postman_environment.json -r html --reporter-html-export newman/report.html
