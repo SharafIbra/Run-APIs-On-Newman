@@ -22,8 +22,9 @@ Before running the tests, ensure the following are installed on your system:
 - `newman/`: Directory where the HTML test report will be generated.
 
 ### Installation
+1. Start MockServer according to this [repo](https://github.com/SharafIbra/Mock-API.git)
 
-Clone this repository:
+2. Clone this repository:
    ```bash
    git clone https://github.com/SharafIbra/Run-APIs-On-Newman.git 
 ```
