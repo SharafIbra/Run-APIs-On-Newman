@@ -25,7 +25,7 @@ Before running the tests, ensure the following are installed on your system:
 
 Clone this repository:
    ```bash
-   git clone https://github.com/SharafIbra/Mock-API.git 
+   git clone https://github.com/SharafIbra/Run-APIs-On-Newman.git 
 ```
 ## Running Tests
 
