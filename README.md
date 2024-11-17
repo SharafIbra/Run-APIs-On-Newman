@@ -21,13 +21,13 @@ Before running the tests, ensure the following are installed on your system:
 - `Mock2fullEnv.postman_environment.json`: The Postman environment file with variables for the API endpoints, credentials, etc.
 - `newman/`: Directory where the HTML test report will be generated.
 
-### Installation
+## Installation
 1. Start MockServer according to this [repo](https://github.com/SharafIbra/Mock-API.git)
 
 2. Clone this repository:
    ```bash
    git clone https://github.com/SharafIbra/Run-APIs-On-Newman.git 
-```
+
 ## Running Tests
 
 To execute the API tests and generate an HTML report, run the following command in your terminal:
